@@ -1,0 +1,4 @@
+OCP_CLUSTER_A: 'api.cluster1.basedomain.com:8443'
+OCP_CLUSTER_B: 'api.cluster2.basedomain.com:8443'
+OCP_CLUSTER_C: 'api.cluster3.basedomain.com:8443'  
+OCP_CLUSTER_D: 'api.cluster4.basedomain.com:8443'
